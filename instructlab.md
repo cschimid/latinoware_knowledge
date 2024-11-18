@@ -1,67 +1,66 @@
-# Welcome to the 🐶 InstructLab Project
+# Welcome to the Latinoware
 
-![Banner](https://github.com/instructlab/.github/blob/main/assets/instructlab-banner.png)
-InstructLab is a model-agnostic open source AI project that facilitates contributions to Large Language Models (LLMs).
+![Banner]([[https://github.com/instructlab/.github/blob/main/assets/instructlab-banner.png](https://latinoware.org/wp-content/uploads/2024/07/logo_2024.svg])
+Latinoware is back with full force for its 21st edition! This year, the event will be exclusively in-person, providing an unmissable opportunity to meet incredible people, network, and make the most of the lectures and discussions about free software. Get ready for three intense days, from November 27 to 29, 2024, packed with news and connections.
 
-We are on a mission to let anyone shape generative AI by enabling contributed updates to existing LLMs in an accessible way.
+Latinoware is currently the largest and most important event in the area of ​​Free Technologies in Latin America. Created in 2004 (as the Latin American Conference on Free Software) by Itaipu Binacional and Itaipu Parquetec, the event provides opportunities for debate and exchange of knowledge about the evolution of open technologies and their applications. It also has a diverse audience, made up of community members, users, developers, students, researchers, and government and private sector representatives.
 
-**Our community welcomes all those who would like to help us enable ***everyone*** to shape the future of generative AI.**
+Our commitment is that Latinoware continues with the objective of creating an atmosphere of innovation and an environment in tune with the transformation of the planet, through the open source philosophy.
 
-## Why InstructLab
+We intend to gather an even larger group for this unprecedented edition, and perhaps a record number of participants. However, we are waiting for all our guests to take part in one of the largest Free Software events on the planet, and to take advantage of their stay in Foz do Iguaçu (PR) to get to know our natural wonders and human technology, such as Itaipu Binacional itself.
 
-There are many projects rapidly embracing and extending permissively licensed AI models, but they are faced with three main challenges:
+## Partner Hotels
 
-* Contribution to LLMs is not possible directly. They show up as forks, which forces consumers to choose a “best-fit” model that isn’t easily extensible. Also, the forks are expensive for model creators to maintain.
-* The ability to contribute ideas is limited by a lack of AI/ML expertise. One has to learn how to fork, train, and refine models to see their idea move forward. This is a high barrier to entry.
-* There is no direct community governance or best practice around review, curation, and distribution of forked models.
+Latinoware 2024 will be held within the Iguassu Inova Festival  from November 27 to 30 in Foz do Iguaçu. This partnership expands access to discussions on technology, innovation and entrepreneurship, providing a unique experience for participants.
 
-**InstructLab is here to solve these problems.**
+To make your experience even easier, we have prepared exclusive discounts at partner hotels for event participants.
 
-The project enables community contributors to add additional "skills" or "knowledge" to a particular model.
+Special 10% discount for festival participants, which can be used on reservations made directly on our hotel websites: 
 
-InstructLab's model-agnostic technology gives model upstreams with sufficient infrastructure resources the ability to create regular builds of their open source licensed models not by rebuilding and retraining the entire model but by composing new skills into it.
+ To enjoy the discount, simply enter the couponINNOVATEin the booking process on our websites. In addition, if any participant prefers to make the reservation by phone, just inform that you are participating in the event and mention the couponINNOVATEso that our reservations center can apply the discount. 
 
-Take a look at "lab-enhanced" models on the [InstructLab Hugging Face page](https://huggingface.co/instructlab).
+## Inns and Hostels in Foz do Iguaçu
 
-## Get Started with InstructLab
+Dear friends and congress attendees, guesthouses and hostels in Foz do Iguaçu are generally small and offer a more welcoming and cozy environment for guests. They can be found in different neighborhoods of the city. Guesthouses offer private rooms and some shared accommodation options, as well as common areas such as a kitchen, living room and garden.
 
-* Check out the [Community README](https://github.com/instructlab/community/blob/main/README.md) to get started with using and contributing to the project.
-* You may wish to read through the [project's FAQ](https://github.com/instructlab/community/blob/main/FAQ.md) to get more familiar with all aspects of InstructLab.
-* If you want to jump right in, head to the [`ilab` documentation](https://github.com/instructlab/instructlab/blob/main/README.md) to get InstructLab set up and running.
-* Learn more about the [skills and knowledge](https://github.com/instructlab/taxonomy/blob/main/README.md) you can add to models.
-* You can find all the ways to collaborate with project maintainers and your fellow users of InstructLab beyond GitHub by visiting our [project collaboration](https://github.com/instructlab/community/blob/main/Collaboration.md) page.
-* When you are ready to make a contribution to the project, please take a few minutes to look over our [contribution guidelines](https://github.com/instructlab/community/blob/main/CONTRIBUTING.md) to ensure your contribution is aligned with the project policies.
+These places are popular with travelers looking for a more affordable accommodation option. They offer shared and private rooms, as well as common areas such as a kitchen, living room, and common areas. Hostels may also offer social activities and sightseeing tours for guests.
 
-## Community Meetings
+The organization of the 21st Latinoware – Latin American Congress of Free Software and Open Technologies, created this page as a way to facilitate information for congress participants and there is no agreement between the event and the Inns and Hostels mentioned here.
 
-For folks getting started with all things InstructLab, it may be easiest for you to join one of our community meetings and speak with project maintainers and other InstructLab collaborators live. You can find details on all of our community meetings, including our open office hours each Thursday, in our detailed [Project Meetings documentation](https://github.com/instructlab/community/blob/main/Collaboration.md#project-meetings).
+## Latinoware 2024 Programming
 
-Everyone is welcome and encouraged to attend if they will find value in joining. Please note that some meetings are recorded and the recordings [published in our project YouTube channel](https://www.youtube.com/@InstructLab/playlists). The meeting host will advise all attendees if the meeting is being recorded. If you prefer to join camera off or dial in via phone so as to not be actively recorded and/or you prefer not to be on camera during meetings, that is absolutely no problem.
+The full schedule can be found at https://latinoware.org/programacao-latinoware-2024 .
 
-## Code of Conduct
+## Keynotes
 
-Participation in all aspects of the InstructLab community (including but not limited to community meetings, mailing lists, real-time chat, and the project GitHub repos) is governed by our [Code of Conduct](https://github.com/instructlab/community/blob/main/CODE_OF_CONDUCT.md).
+The event organizers cannot fail to mention our keynote speakers who will be present at the 21st Latinoware, as they play a fundamental role in sharing their knowledge and experiences, inspiring everyone present. Their enriching lectures always address crucial topics for the future of open technologies, driving debate and fostering collaboration. We are immensely grateful to all the speakers for their valuable contribution to the success of our event.
 
-## Quick Links
+## Speakers
 
-### Governance
+Speakers, you are the best for our event.
+What has been fantastic in the 21 editions of Latinoware is the presence of speakers (professionals in the field, professors, students, businesspeople, users, community members) who share their experiences, share their knowledge, and collaborate with everyone through examples, work, advice, tips, and inspiring, thought-provoking, and high-impact stories for all event guests.
 
-See the [project governance document](https://github.com/instructlab/community/blob/main/GOVERNANCE.md) for an overview of how InstructLab project operates.
+We would like to extend our sincere thanks to all of you.
 
-### Security
+Speakers: https://latinoware.org/category/palestrantes/
 
-Security policies and practices, including reporting vulnerabilities, can be found in our [security document](https://github.com/instructlab/community/blob/main/SECURITY.md).
 
-### Read the Paper
+### LatinowareEdu
 
-InstructLab 🐶 uses a novel synthetic data-based alignment tuning method for Large Language Models (LLMs.) The "lab" in InstructLab 🥼 stands for [**L**arge-Scale **A**lignment for Chat**B**ots](https://arxiv.org/abs/2403.01081) [1].
+Latinoware EDU carries the creative traits of all teachers, educators, entrepreneurs, artists, researchers, people committed to human development for our children, youth and adults as well.
 
-[1] Shivchander Sudalairaj*, Abhishek Bhandwaldar*, Aldo Pareja*, Kai Xu, David D. Cox, Akash Srivastava*. "LAB: Large-Scale Alignment for ChatBots", arXiv preprint arXiv: 2403.01081, 2024. (* denotes equal contributions)
+The LatinowareEDU program includes the participation of teachers, educators, engineers, and technology experts and topics as interesting as: Education 4.0, creative learning in Brazil, the philosophy of sharing in the classroom.
 
-## Acknowledgements
+Lectures and workshops include educational robotics, boards, block programming, hacking electronic toys for inclusive education.
 
-The InstructLab project is sponsored by Red Hat.
+### X Latin American Free Hardware Forum
 
-InstructLab was originally created by engineers from Red Hat and IBM Research.
+Education, the maker movement, and free robotics join forces again at Latinoware 2024, integrating lectures, workshops, meetings, and Latino TALKS. The idea is to bring participants the cutting edge of technology associated with discussions about the current and future scenario of education. We will have lectures and workshops full of news about applied robotics, industrial automation, 3D printing, free hardware (and software), as well as pedagogical discussions and educational tools that can make a difference in quality education, including both desktop and online tools.
 
-The infrastructure used to regularly train models based on new contributions from the community is donated and maintained by IBM.
+### Latin.Science 2024
+
+Latinoware is one of the largest free software events in the world and will celebrate its 21st edition in 2024. Since 2019, the event has had the Latin.Science academic track, which has been a great success. In 2020 and 2021, the editions were entirely online due to the pandemic, but the event maintained its high level of quality, with approximately 50 submissions in both years. In 2022, the event returned to the in-person and hybrid format, repeating the success with high-level papers. The 2023 edition, held at the Foz do Iguaçu Convention Center (CECONFI), continued this successful trajectory, with 41 papers published in SOL/SBC and an acceptance rate of 67%.
+
+The success of Latin.Science is the result of the dedicated work and enthusiasm of the academic and professional community involved. We are immensely grateful to all who contributed with their work, reviews and participation in previous editions. It is this collaboration that strengthens our commitment to the dissemination of knowledge and the development of open technologies.
+
+In 2024, we hope to once again count on the active participation of all of you. Latin.Science is a space to present and discuss innovative research, strengthen collaboration networks, and promote open science. We invite all researchers, students, and professionals to submit their work and join us in making this edition an even greater milestone in the history of the event.
