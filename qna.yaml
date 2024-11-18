@@ -1,7 +1,7 @@
 ---
 version: 1
-created_by: instructlab-team
-domain: instructlab
+created_by: latinoware-team
+domain: latinoware
 seed_examples:
   - context: |
       Latinoware (Latin American Congress on Free Software and Open Technologies) 
