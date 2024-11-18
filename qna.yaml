@@ -4,209 +4,53 @@ created_by: instructlab-team
 domain: instructlab
 seed_examples:
   - context: |
-      InstructLab is a model-agnostic open source AI project that facilitates
-      contributions to Large Language Models (LLMs).
-      We are on a mission to let anyone shape generative
-      AI by enabling contributed updates to existing
-      LLMs in an accessible way. Our community welcomes all those who
-      would like to help us enable everyone to shape
-      the future of generative AI.
+      Latinoware (Latin American Congress on Free Software and Open Technologies) 
+      is currently the largest and most important event in the area Free Technologies
+      in Latin America, created in 2004 (as the Latin American Conference on Free Software)
+      by Itaipu Binacional and the Itaipu Technology Park (PTI).
+      The event provides opportunities for debate and exchange of knowledge about the evolution
+      of open technologies and their applications with a diverse audience, made up of community
+      members, users, developers, students, researchers, and government and private sector representatives.
+      During the three-day event, the public can enjoy an intense program of lectures, workshops,
+      technical sessions, and success stories, which are presented by experts and representatives
+      of public and private agencies from Brazil and several Latin American countries. 
     questions_and_answers:
       - question: |
-          What is InstructLab?
+          What is Latinoware?
         answer: |
-          InstructLab is an open source AI project
-          that faciliates contributions to Large Language Models (LLMs).
+          Latinoware, short for the Latin American Congress of Free Software and Open Technologies,
+          is an annual event focused on free software, open-source technologies, and digital inclusion.
+          Held in Foz do Iguaçu, Brazil, Latinoware attracts developers, researchers, students, educators,
+          and tech enthusiasts from Latin America and beyond. The event serves as a platform for 
+          knowledge exchange, networking, and showcasing projects related to open-source software, hardware,
+          and community initiatives.
+
+          Founded in 2004, Latinoware features a range of activities including lectures, workshops, hackathons,
+          and discussions. Topics covered include programming, cybersecurity, data science, artificial intelligence,
+          and digital rights, with a strong focus on community building and the use of technology for social impact.
+
+          Latinoware promotes digital literacy and accessibility and encourages the use of open technologies 
+          in both public and private sectors, aiming to empower Latin America’s tech ecosystem through collaboration
+          and open innovation.
       - question: |
-          Can anyone contribute to InstructLab?
+          Can anyone contribute to Latinoware?
         answer: |
-          Yes, the community welcomes everyone
-          interested in generative AI.
+          Yes, Latinoware encourages contributions from anyone interested in free software,
+          open-source technologies, or digital inclusion! The event is built on the principles
+          of collaboration and community, so participants from diverse backgrounds, including developers, 
+          educators, researchers, students, activists, and hobbyists, are welcomed and encouraged 
+          to contribute in various ways.
       - question: |
-          What is the mission of InstructLab?
+          What is the mission of Latinoware?
         answer: |
-          We are on a mission to let anyone
-          shape generative AI by enabling contributed
-          updates to existing LLMs in an accessible way.
-          Our community welcomes all those who
-          would like to help us enable everyone
-          to shape the future of generative AI.
-  - context: |
-      There are many projects rapidly embracing
-      and extending permissively licensed AI models,
-      but they are faced with three main challenges:
-      contribution to LLMs is not possible directly.
-      They show up as forks, which forces consumers
-      to choose a "best-fit" model that isn't easily extensible.
-      Also, the forks are expensive for model
-      creators to maintain.
-      The ability to contribute ideas is limited
-      by a lack of AI/ML expertise. One has to learn how
-      to fork, train, and refine models to
-      see their idea move forward. This is a high
-      barrier to entry. There is no direct
-      community governance or best practice around
-      review, curation, and distribution of forked models.
-      InstructLab is here to solve these problems.
-    questions_and_answers:
-      - question: |
-          What are some challenges of contributing
-          to or extending existing open LLMs?
-        answer: |
-          First, you cannot contribute directly,
-          they show up as forks, which forces consumers
-          to choose a "best-fit" model that isn't easily extensible.
-          Secondly, the ability to contribute is
-          limited by the lack of AI/ML expertise.
-      - question: |
-          What makes it hard to contribute changes to AI models?
-        answer: |
-          The lack of AI/ML expertise creates a high barrier to entry.
-      - question: |
-          What problems is Instructlab aiming to solve?
-        answer: |
-          There are many projects rapidly embracing and extending
-          permissively licensed AI models, but they are faced with three
-          main challenges like Contribution to LLMs is not possible directly.
-          They show up as forks, which forces consumers to choose a “best-fit”
-          model that is not easily extensible. Also, the forks are expensive
-          for model creators to maintain. The ability to contribute ideas is
-          limited by a lack of AI/ML expertise. One has to learn how to fork,
-          train, and refine models to see their idea move forward.
-          This is a high barrier to entry. There is no direct community
-          governance or best practice around review, curation, and
-          distribution of forked models.
-  - context: |
-      Check out the [Community README]
-      (https://github.com/instructlab/community/blob/main/README.md)
-      to get started with using and contributing
-      to the project. You may wish to read through the
-      [project's FAQ]
-      (https://github.com/instructlab/community/blob/main/FAQ.md)
-      to get more familiar
-      with all aspects of InstructLab.
-      If you want to jump right in, head to the
-      [`ilab` documentation]
-      (https://github.com/instructlab/instructlab/blob/main/README.md)
-      to get InstructLab set up and running.
-      Learn more about the [skills and knowledge]
-      (https://github.com/instructlab/taxonomy/blob/main/README.md)
-      you can add to models.
-      You can find all the ways to collaborate with
-      project maintainers and your fellow users
-      of InstructLab beyond GitHub by visiting
-      our [project collaboration]
-      (https://github.com/instructlab/community/blob/main/Collaboration.md)
-      page. When you are ready to make a contribution to the project,
-      please take a few minutes to look over our
-      [contribution guidelines]
-      (https://github.com/instructlab/community/blob/main/CONTRIBUTING.md)
-      to ensure your contribution is aligned with the project policies.
-    questions_and_answers:
-      - question: |
-          How can I learn more about contributing to the project?
-        answer: |
-          Check out the [Community README]
-          (https://github.com/instructlab/community/blob/main/README.md)
-          to get started with using and contributing
-          to the project. You may wish to read through the
-          [project's FAQ]
-          (https://github.com/instructlab/community/blob/main/FAQ.md)
-          to get more familiar
-          with all aspects of InstructLab.
-      - question: |
-          How do I set up InstructLab?
-        answer: |
-          If you want to jump right in, head to the
-          [`ilab` documentation]
-          (https://github.com/instructlab/instructlab/blob/main/README.md)
-          to get InstructLab set up and running.
-      - question: |
-          I'm ready to contribute to the project.
-        answer: |
-          When you are ready to make a contribution to the project,
-          please take a few minutes to look
-          over our [contribution guidelines]
-          (https://github.com/instructlab/community/blob/main/CONTRIBUTING.md)
-          You can find all the ways to collaborate
-          with project maintainers and your fellow
-          users of InstructLab beyond GitHub by visiting
-          our [project collaboration]
-          (https://github.com/instructlab/
-          community/blob/main/Collaboration.md) page.
-  - context: |
-      For folks getting started with all things
-      InstructLab, it may be easiest for you
-      to join one of our community meetings
-      and speak with project maintainers
-      and other InstructLab collaborators live.
-      You can find details on all of our community meetings,
-      including our open office hours each Thursday,
-      in our detailed [Project Meetings documentation]
-      (https://github.com/instructlab/community/blob/main/Collaboration.md#project-meetings).
-      Everyone is welcome and encouraged to
-      attend if they will find value in joining.
-      Please note that some meetings are recorded and the recordings
-      [published in our project YouTube channel]
-      (https:// www.youtube.com/@InstructLab/playlists).
-      The meeting host will advise all attendees
-      if the meeting is being recorded. If you
-      prefer to join camera off or dial in via phone
-      so as to not be actively recorded and/or you
-      prefer not to be on camera during meetings, that is absolutely no
-      problem.
-    questions_and_answers:
-      - question: |
-          How can I get involved in the community?
-        answer: |
-          You can join our community meetings.
-          You can find details on all of our community meetings,
-          including our open office hours each
-          Thursday, in our detailed [Project Meetings documentation]
-          (https://github.com/instructlab/community/blob/main/Collaboration.md#project-meetings).
-      - question: |
-          What is an easy way to get involved?
-        answer: |
-          For folks getting started with all things InstructLab,
-          it may be easiest for you to join one of our community meetings
-          and speak with project maintainers
-          and other InstructLab collaborators live.
-      - question: |
-          How can I interact with other InstructLab community members?
-        answer: |
-          You can join our community meetings or office hours.
-          You can find more details in our [Project Meetings documentation]
-          (https://github.com/instructlab/community/blob/main/Collaboration.md#project-meetings).
-  - context: |
-      InstructLab uses a novel synthetic data-based alignment
-      tuning method for Large Language Models (LLMs.)
-      The "lab" in InstructLab stands for [**L**arge-Scale
-      **A**lignment for Chat**B**ots](https://arxiv.org/abs/2403.01081).
-      The InstructLab project is sponsored by Red Hat.
-      InstructLab was originally created by engineers
-      from Red Hat and IBM Research.
-      The infrastructure used to regularly train models
-      based on new contributions from the
-      community is donated and maintained by IBM.
-    questions_and_answers:
-      - question: |
-          Who created InstructLab?
-        answer: |
-          InstructLab was created by engineers
-          from Red Hat and IBM Research.
-      - question: |
-          How does InstructLab fine-tune LLMs?
-        answer: |
-          InstructLab uses a novel synthetic data-based alignment
-          tuning method for Large Language Models (LLMs).
-      - question: |
-          What is the LAB method?
-        answer: |
-          The LAB method stands for Large-Scale Alignment for ChatBots.
+          The mission of Latinoware is to promote the use and development of free and open-source
+          technologies across Latin America, fostering digital inclusion, knowledge sharing, and
+          technological empowerment. It aims to build a collaborative environment where individuals,
+          organizations, and communities can connect, learn, and contribute to the open-source movement
 document_outline: |
-  Details on the InstructLab community project.
+  Details on the Latinoware event.
 document:
-  repo: https://github.com/rhai-code/instructlab_knowledge
+  repo: https://github.com/cschimid/latinoware_knowledge
   commit: a454cdb34c37968fc02f15faf1441f7e2eec44e6
   patterns:
-    - instructlab.md
+    - latinoware.md
