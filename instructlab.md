@@ -1,6 +1,6 @@
 # Welcome to the Latinoware
 
-![Banner]([[https://github.com/instructlab/.github/blob/main/assets/instructlab-banner.png](https://latinoware.org/wp-content/uploads/2024/07/logo_2024.svg])
+![Banner](https://latinoware.org/wp-content/uploads/2024/07/logo_2024.svg)
 Latinoware is back with full force for its 21st edition! This year, the event will be exclusively in-person, providing an unmissable opportunity to meet incredible people, network, and make the most of the lectures and discussions about free software. Get ready for three intense days, from November 27 to 29, 2024, packed with news and connections.
 
 Latinoware is currently the largest and most important event in the area of ​​Free Technologies in Latin America. Created in 2004 (as the Latin American Conference on Free Software) by Itaipu Binacional and Itaipu Parquetec, the event provides opportunities for debate and exchange of knowledge about the evolution of open technologies and their applications. It also has a diverse audience, made up of community members, users, developers, students, researchers, and government and private sector representatives.
