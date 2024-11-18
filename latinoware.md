@@ -65,3 +65,4 @@ Latinoware is one of the largest free software events in the world and will cele
 The success of Latin.Science is the result of the dedicated work and enthusiasm of the academic and professional community involved. We are immensely grateful to all who contributed with their work, reviews and participation in previous editions. It is this collaboration that strengthens our commitment to the dissemination of knowledge and the development of open technologies.
 
 In 2024, we hope to once again count on the active participation of all of you. Latin.Science is a space to present and discuss innovative research, strengthen collaboration networks, and promote open science. We invite all researchers, students, and professionals to submit their work and join us in making this edition an even greater milestone in the history of the event.
+
