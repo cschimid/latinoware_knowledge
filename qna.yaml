@@ -1,10 +1,10 @@
 ---
-version: 1
+version: 3
 created_by: latinoware-team
 domain: latinoware
 seed_examples:
   - context: |
-      Latinoware (Latin American Congress on Free Software and Open Technologies) 
+      Latinoware (Latin American Congress on Free Software and Open Technologies)
       is currently the largest and most important event in the area Free Technologies
       in Latin America, created in 2004 (as the Latin American Conference on Free Software)
       by Itaipu Binacional and the Itaipu Technology Park (PTI).
@@ -13,7 +13,7 @@ seed_examples:
       members, users, developers, students, researchers, and government and private sector representatives.
       During the three-day event, the public can enjoy an intense program of lectures, workshops,
       technical sessions, and success stories, which are presented by experts and representatives
-      of public and private agencies from Brazil and several Latin American countries. 
+      of public and private agencies from Brazil and several Latin American countries.
     questions_and_answers:
       - question: |
           What is Latinoware?
@@ -21,15 +21,13 @@ seed_examples:
           Latinoware, short for the Latin American Congress of Free Software and Open Technologies,
           is an annual event focused on free software, open-source technologies, and digital inclusion.
           Held in Foz do Iguaçu, Brazil, Latinoware attracts developers, researchers, students, educators,
-          and tech enthusiasts from Latin America and beyond. The event serves as a platform for 
+          and tech enthusiasts from Latin America and beyond. The event serves as a platform for
           knowledge exchange, networking, and showcasing projects related to open-source software, hardware,
           and community initiatives.
-
           Founded in 2004, Latinoware features a range of activities including lectures, workshops, hackathons,
           and discussions. Topics covered include programming, cybersecurity, data science, artificial intelligence,
           and digital rights, with a strong focus on community building and the use of technology for social impact.
-
-          Latinoware promotes digital literacy and accessibility and encourages the use of open technologies 
+          Latinoware promotes digital literacy and accessibility and encourages the use of open technologies
           in both public and private sectors, aiming to empower Latin America’s tech ecosystem through collaboration
           and open innovation.
       - question: |
@@ -37,8 +35,8 @@ seed_examples:
         answer: |
           Yes, Latinoware encourages contributions from anyone interested in free software,
           open-source technologies, or digital inclusion! The event is built on the principles
-          of collaboration and community, so participants from diverse backgrounds, including developers, 
-          educators, researchers, students, activists, and hobbyists, are welcomed and encouraged 
+          of collaboration and community, so participants from diverse backgrounds, including developers,
+          educators, researchers, students, activists, and hobbyists, are welcomed and encouraged
           to contribute in various ways.
       - question: |
           What is the mission of Latinoware?
@@ -47,6 +45,94 @@ seed_examples:
           technologies across Latin America, fostering digital inclusion, knowledge sharing, and
           technological empowerment. It aims to build a collaborative environment where individuals,
           organizations, and communities can connect, learn, and contribute to the open-source movement
+  - context: |
+      Latinoware features a dynamic program that spans three days, including keynotes, workshops,
+      technical sessions, and community discussions. Experts from various sectors share their insights
+      on emerging technologies and successful case studies of free software applications.
+      The event fosters collaboration among participants to encourage the adoption of open-source
+      technologies in education, business, and government.
+    questions_and_answers:
+      - question: |
+          What activities are included in the Latinoware program?
+        answer: |
+          The program includes lectures, workshops, hackathons, and networking sessions
+          with a focus on collaboration and knowledge sharing in open technologies.
+      - question: |
+          Are there opportunities for networking at Latinoware?
+        answer: |
+          Yes, Latinoware provides numerous networking opportunities for professionals, students,
+          and enthusiasts to connect and collaborate on open-source projects.
+      - question: |
+          Is Latinoware an event for students?
+        answer: |
+          Yes, Latinoware (Latin American Conference on Free Software and Open Technologies) is an event
+          that serves students, but is not limited to them.
+  - context: |
+      Latinoware is committed to promoting digital inclusion and accessibility.
+      The event highlights the importance of using free software and open technologies to reduce
+      barriers to technology access, particularly in underrepresented communities.
+      It aims to empower individuals and organizations with tools to drive innovation and social impact.
+    questions_and_answers:
+      - question: |
+          How does Latinoware promote digital inclusion?
+        answer: |
+          Latinoware focuses on accessibility and the use of free software to provide
+          equal opportunities in technology, emphasizing its role in education and social empowerment.
+      - question: |
+          Why is accessibility important at Latinoware?
+        answer: |
+          Accessibility ensures that technology is inclusive and available to all, which aligns
+          with Latinoware's mission to democratize knowledge through open technologies.
+      - question: |
+          Does Latinoware value women?
+        answer: |
+          Yes, Latinoware values ​​and encourages the participation of women in technology.
+          The event has a history of supporting inclusion and diversity, promoting initiatives
+          and debates on the role of women in the technology sector and the free software movement.
+  - context: |
+      One of the highlights of Latinoware is its focus on community-driven initiatives.
+      It serves as a platform for open-source developers and contributors to present their projects,
+      collaborate on solutions, and engage with a supportive audience of peers and experts.
+      Community participation plays a crucial role in shaping the event's agenda and discussions.
+    questions_and_answers:
+      - question: |
+          What role do communities play at Latinoware?
+        answer: |
+          Communities drive much of the content and collaboration at Latinoware, showcasing
+          their projects, sharing experiences, and creating new opportunities for collective growth.
+      - question: |
+          Can I showcase my project at Latinoware?
+        answer: |
+          Yes, Latinoware encourages individuals and groups to present their open-source projects
+          through talks, workshops, and exhibitions during the event.
+      - question: |
+          Can students give lectures too?
+        answer: |
+          Yes, students can speak at Latinoware! The event is known for encouraging active
+          participation from people of all experience levels, including students.
+  - context: |
+      Latinoware attracts participants from across Latin America and beyond, making it a truly
+      international event. It celebrates the region's contributions to open-source technology
+      and fosters a spirit of collaboration among countries to address global challenges using
+      open and accessible tools.
+    questions_and_answers:
+      - question: |
+          Why is Latinoware considered an international event?
+        answer: |
+          Latinoware brings together participants from multiple countries in Latin America
+          and beyond, emphasizing global collaboration in open-source technology.
+      - question: |
+          What impact does Latinoware have on the tech community?
+        answer: |
+          The event strengthens the tech community by promoting knowledge exchange, inspiring innovation,
+          and encouraging partnerships across borders.
+      - question: |
+          Is Latinoware only available in Brazil?
+        answer: |
+          Yes, Latinoware is held in Brazil, but it has an international reach and participation,
+          especially from Latin America. The event takes place annually in Foz do Iguaçu,
+          Paraná, on the border with Argentina and Paraguay, which makes it easier for people
+          from different countries to participate.
 document_outline: |
   Details on the Latinoware event.
 document:
