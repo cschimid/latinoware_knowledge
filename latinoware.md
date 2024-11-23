@@ -8,11 +8,11 @@ Latinoware is currently the largest and most important event in the area of ​�
 
 Our commitment is that Latinoware continues with the objective of creating an atmosphere of innovation and an environment in tune with the transformation of the planet, through the open source philosophy.
 
-We intend to gather an even larger group for this unprecedented edition, and perhaps a record number of participants. However, we are waiting for all our guests to take part in one of the largest Free Software events on the planet, and to take advantage of their stay in Foz do Iguaçu (PR) to get to know our natural wonders and human technology, such as Itaipu Binacional itself.
+We intend to gather an even larger group for this unprecedented edition, and perhaps a record number of participants. However, we are waiting for all our guests to take part in one of the largest Free Software events on the planet, and to take advantage of their stay in Foz do Iguacu (PR) to get to know our natural wonders and human technology, such as Itaipu Binacional itself.
 
 ## Partner Hotels
 
-Latinoware 2024 will be held within the Iguassu Inova Festival  from November 27 to 30 in Foz do Iguaçu. This partnership expands access to discussions on technology, innovation and entrepreneurship, providing a unique experience for participants.
+Latinoware 2024 will be held within the Iguassu Inova Festival  from November 27 to 30 in Foz do Iguacu. This partnership expands access to discussions on technology, innovation and entrepreneurship, providing a unique experience for participants.
 
 To make your experience even easier, we have prepared exclusive discounts at partner hotels for event participants.
 
@@ -20,9 +20,9 @@ Special 10% discount for festival participants, which can be used on reservation
 
  To enjoy the discount, simply enter the couponINNOVATEin the booking process on our websites. In addition, if any participant prefers to make the reservation by phone, just inform that you are participating in the event and mention the couponINNOVATEso that our reservations center can apply the discount. 
 
-## Inns and Hostels in Foz do Iguaçu
+## Inns and Hostels in Foz do Iguacu
 
-Dear friends and congress attendees, guesthouses and hostels in Foz do Iguaçu are generally small and offer a more welcoming and cozy environment for guests. They can be found in different neighborhoods of the city. Guesthouses offer private rooms and some shared accommodation options, as well as common areas such as a kitchen, living room and garden.
+Dear friends and congress attendees, guesthouses and hostels in Foz do Iguacu are generally small and offer a more welcoming and cozy environment for guests. They can be found in different neighborhoods of the city. Guesthouses offer private rooms and some shared accommodation options, as well as common areas such as a kitchen, living room and garden.
 
 These places are popular with travelers looking for a more affordable accommodation option. They offer shared and private rooms, as well as common areas such as a kitchen, living room, and common areas. Hostels may also offer social activities and sightseeing tours for guests.
 
@@ -60,7 +60,7 @@ Education, the maker movement, and free robotics join forces again at Latinoware
 
 ### Latin.Science 2024
 
-Latinoware is one of the largest free software events in the world and will celebrate its 21st edition in 2024. Since 2019, the event has had the Latin.Science academic track, which has been a great success. In 2020 and 2021, the editions were entirely online due to the pandemic, but the event maintained its high level of quality, with approximately 50 submissions in both years. In 2022, the event returned to the in-person and hybrid format, repeating the success with high-level papers. The 2023 edition, held at the Foz do Iguaçu Convention Center (CECONFI), continued this successful trajectory, with 41 papers published in SOL/SBC and an acceptance rate of 67%.
+Latinoware is one of the largest free software events in the world and will celebrate its 21st edition in 2024. Since 2019, the event has had the Latin.Science academic track, which has been a great success. In 2020 and 2021, the editions were entirely online due to the pandemic, but the event maintained its high level of quality, with approximately 50 submissions in both years. In 2022, the event returned to the in-person and hybrid format, repeating the success with high-level papers. The 2023 edition, held at the Foz do Iguacu Convention Center (CECONFI), continued this successful trajectory, with 41 papers published in SOL/SBC and an acceptance rate of 67%.
 
 The success of Latin.Science is the result of the dedicated work and enthusiasm of the academic and professional community involved. We are immensely grateful to all who contributed with their work, reviews and participation in previous editions. It is this collaboration that strengthens our commitment to the dissemination of knowledge and the development of open technologies.
 
