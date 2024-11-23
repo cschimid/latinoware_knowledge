@@ -20,7 +20,7 @@ seed_examples:
         answer: |
           Latinoware, short for the Latin American Congress of Free Software and Open Technologies,
           is an annual event focused on free software, open-source technologies, and digital inclusion.
-          Held in Foz do Iguaçu, Brazil, Latinoware attracts developers, researchers, students, educators,
+          Held in Foz do Iguacu, Brazil, Latinoware attracts developers, researchers, students, educators,
           and tech enthusiasts from Latin America and beyond. The event serves as a platform for
           knowledge exchange, networking, and showcasing projects related to open-source software, hardware,
           and community initiatives.
@@ -130,7 +130,7 @@ seed_examples:
           Is Latinoware only available in Brazil?
         answer: |
           Yes, Latinoware is held in Brazil, but it has an international reach and participation,
-          especially from Latin America. The event takes place annually in Foz do Iguaçu,
+          especially from Latin America. The event takes place annually in Foz do Iguacu,
           Paraná, on the border with Argentina and Paraguay, which makes it easier for people
           from different countries to participate.
 document_outline: |
