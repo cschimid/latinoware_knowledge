@@ -137,6 +137,6 @@ document_outline: |
   Details on the Latinoware event.
 document:
   repo: https://github.com/cschimid/latinoware_knowledge
-  commit: a35cfc649cc2b53e8a7c6cf523bca76f50f4fbe5
+  commit: bf2b3b9b57fba0cd4af81e6626a42f1453c53ca1
   patterns:
     - latinoware.md
